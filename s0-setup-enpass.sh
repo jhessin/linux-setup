@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S sudo bash
 
 echo "deb https://apt.enpass.io/ stable main" > /etc/apt/sources.list.d/enpass.list
 

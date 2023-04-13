@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S sudo bash
 
 if ! grep -q Dvorak "/etc/default/console-setup"; then
 { 
